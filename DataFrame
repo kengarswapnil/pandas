@@ -1,0 +1,13 @@
+import pandas as pd
+a=[1,2,3,4,5]
+myvar=pd.series(a)
+print(myvar)
+
+
+// output:
+
+
+     calories     duration
+0       420        50
+1       380        40
+2       390        45
